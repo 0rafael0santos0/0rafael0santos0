@@ -1,0 +1,13 @@
+   # Sobre mim
+   
+- 👋 Hi, I’m @0rafael0santos0
+- meu email de comtato é santrafael31@gmail.com
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+0rafael0santos0/0rafael0santos0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->

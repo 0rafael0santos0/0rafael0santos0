@@ -3,7 +3,7 @@
       (\-/)
       (*.*)
       (/ \)
-       | |
+      
    
 - 👋 oi meu nome é ***@0rafael0santos0***.
 - meu email de comtato é santrafael31@gmail.com.
